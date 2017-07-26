@@ -3,5 +3,6 @@ public class Hello{
 		System.out.println("Hello GIT!!!");
 		System.out.println("Hello World!!!");
 		Admin admin=new Admin();
+		Date date=new Date();
 	}
 }
